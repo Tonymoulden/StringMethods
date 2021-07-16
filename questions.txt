@@ -1,29 +1,29 @@
 1 - What function will convert the text to all uppercase letters.
-
+print(Text.lower())
 
 2 - What function will convert the text to all lowercase letters.
-
+print(Text.upper())
 
 3 - What function will find the first instance of a specific character.
-
+print('number of a charcter', text.count(''))
 
 4 - What happens if the previous function can not find the character.
 
 
 5 - What is an index?
-
+index () is an inbuilt function in Python, which searches for a given element
 
 6 - What is a slice?
-
+The slice () function returns a slice object.
 
 7 - How can we access a string to get a specific character?
-
+Individual characters in a string can be accessed by specifying the string name followed by a number in square brackets
 
 8 - How can we slice a string to get a specific set characters?
-
+You have to Specify the parameters- start index and the end index, separated by a colon, to return a part of the string.
 
 9 - Can you slice a string multiple times?
-
+You can have a string split across multiple lines by enclosing it in triple quotes.
 
 10 - What happens if you supply position -1 when accessing a string?
-
+error
